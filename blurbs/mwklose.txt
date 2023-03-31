@@ -1,0 +1,1 @@
+I learned how to better visualize Git branches as a series of pointers.
